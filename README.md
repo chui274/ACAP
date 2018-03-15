@@ -1,2 +1,2 @@
-# Arquitectura y Computación de Altas Prestaciones(2016-2017)
+# Arquitectura y Computación de Altas Prestaciones
 Universidad de Granada
