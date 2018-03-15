@@ -1,0 +1,38 @@
+{
+    "viewer.assets.disable_download": true,
+    
+	"viewer.camera.pan.action_threshold": [1, 1],
+	"viewer.camera.pan.min_threshold": [0.5, 0.5],
+	"viewer.camera.pan.max_threshold": [0.5, 0.5],
+	"viewer.camera.pan.momentum": [0.7, 0.8],
+	"viewer.camera.pan.ratio": [0.9, 1.0],
+	"viewer.camera.pan.speed": 0.3,
+	"viewer.camera.pan.bounce_speed": 0.2,
+
+	"viewer.camera.pinch.action_threshold": 0.1,
+	"viewer.camera.pinch.min_threshold": 0.2,
+	"viewer.camera.pinch.max_threshold": 0.3,
+	"viewer.camera.pinch.momentum": 0.4,
+	"viewer.camera.pinch.ratio": 0.5,
+
+	"viewer.camera.rotate.action_threshold": 0.6,
+	"viewer.camera.rotate.snap_threshold": 0.7,
+	"viewer.camera.rotate.snap_speed": 0.1,
+	"viewer.camera.rotate.momentum": 0.8,
+	"viewer.camera.rotate.ratio": 0.9,
+
+	"viewer.camera.zoom.action_threshold": 0.0015,
+	"viewer.camera.zoom.speed": 2.0,
+	"viewer.camera.zoom.min_bounce_factor": 0.8,
+	"viewer.camera.zoom.max_bounce_factor": 2.0,
+	"viewer.camera.zoom.bounce_speed": 0.2,
+
+	"viewer.camera.eagle.speed": 1.0,
+	"viewer.camera.eagle.fly_on_single_tap": false,
+
+	"viewer.camera.initial_offset.scale": 0.8,
+
+	"viewer.gestures.drag.minimum_distance": 200,
+
+	"core.renderer.gl.use_msaa": true,
+}
